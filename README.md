@@ -1,7 +1,11 @@
-
 # PRODIGY_WD_01 - Secure User Authentication System
 
-This project is part of the Prodigy Infotech Full Stack Web Development Internship.
+**Name:** Deepika G  
+**Intern ID:** 9308/TYITB 
+**Internship Domain:** Full Stack Web Development  
+**Company:** Prodigy Infotech  
+
+---
 
 ## 🔐 Task 1: Secure User Authentication System
 
@@ -25,4 +29,4 @@ This project is part of the Prodigy Infotech Full Stack Web Development Internsh
 
 ### 🚀 How to Run
 
-
+1. Clone the repo:
