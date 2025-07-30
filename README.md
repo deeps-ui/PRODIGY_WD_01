@@ -29,4 +29,5 @@
 
 ### 🚀 How to Run
 
-1. Clone the repo:
+npm install,node.js
+
