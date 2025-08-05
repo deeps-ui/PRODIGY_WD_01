@@ -1,22 +1,34 @@
-﻿# PRODIGY\_WD\_01
+# PRODIGY_WD_01 - Secure User Authentication System
 
-\# PRODIGY\_WD\_01
+👩‍💻 **Name**: Deepika G  
+🆔 **Intern ID**: 9308/TYITB  
+💼 **Internship Domain**: Full Stack Web Development  
+🏢 **Company**: Prodigy InfoTech  
 
+---
 
+## 🔐 Task 1: Secure User Authentication System
 
-\## Task 1 - Responsive Landing Page
+### ✅ Features
 
+- User Registration
+- Secure Login
+- Protected Routes (only accessible when logged in)
+- Password Hashing
+- Session or Token-based Authentication
+- Optional: Role-Based Access Control
 
+### 🛠️ Tech Stack Used
 
-👩‍💻 \*\*Name\*\*: Deepika G  
+- HTML / CSS
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- bcrypt / JWT (optional)
 
-🆔 \*\*Roll No\*\*: 9308 
+### 🚀 How to Run
 
-💼 \*\*Internship\*\*: Prodigy InfoTech - Web Development  
-
-📄 \*\*Task\*\*: Create a responsive landing page using HTML, CSS, and JavaScript  
-
-🔗 \*\*GitHub\*\*: \[PRODIGY\_WD\_01](https://github.com/deeps-ui/PRODIGY\_WD\_01)
-
-
-
+```bash
+npm install
+node app.js
